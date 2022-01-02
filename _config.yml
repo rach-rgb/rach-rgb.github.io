@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Blog
+description: blog & wiki
 url: https://rach-rgb.github.io
-avatar: /avatar.jpeg
+# avatar: /avatar.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
@@ -28,15 +28,15 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
-social:
-  name: Songzi Vong
-  links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+# twitter:
+#  username: vszhub
+#  card: summary
+# logo: logo.png
+# social:
+#  name: Songzi Vong
+#  links:
+#    - https://twitter.com/vszhub
+#    - https://github.com/vszhub
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: rach-rgb
+  url: https://github.com/rach-rgb/
+  email: seharhc@gmail.com
